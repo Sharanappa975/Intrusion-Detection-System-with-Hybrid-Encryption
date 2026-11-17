@@ -1,4 +1,4 @@
-# 🔐 NIntrusion Detection System with Hybrid Encryption
+# 🔐 Intrusion Detection System with Hybrid Encryption
 
 ## 📌 Overview
 A distributed network security system designed to ensure secure communication, detect malicious activities, and provide real-time monitoring.
